@@ -1,0 +1,57 @@
+{
+	"storyName": "Phase 0",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"TrickyPhase0",
+		"bfnevada",
+		"jebus"
+	],
+	"songs": [
+		[
+			"Calliope",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Redeemer",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Unlaugh",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Calliope 2",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Phase 0"
+}

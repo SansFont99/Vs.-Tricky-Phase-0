@@ -1,0 +1,39 @@
+{
+	"storyName": "Phase 0.5",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"TrickyPhase0.5",
+		"bf",
+		"gfnevada"
+	],
+	"songs": [
+		[
+			"The Last Party",
+			"TrickyPhase0.5",
+			[
+				24,
+				95,
+				64
+			]
+		],
+		[
+			"Engaged",
+			"TrickyPhase0.5",
+			[
+				24,
+				95,
+				64
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Phase 0.5"
+}

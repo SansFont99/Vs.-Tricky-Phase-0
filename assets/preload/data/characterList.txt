@@ -1,0 +1,12 @@
+bf
+bfmasks-opponent
+bfnevada
+gf
+gfnevada
+jebus
+jebusmasks
+jebus-opponent
+speakers
+TrickyPhase0
+TrickyPhase0.5
+TrickyPhase0.5-player

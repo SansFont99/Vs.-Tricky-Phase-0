@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trickyphase0.5.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tricky Phase 0.50000" x="0" y="0" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50001" x="641" y="0" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50002" x="1282" y="0" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50003" x="0" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50004" x="641" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50005" x="1282" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50006" x="0" y="1340" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50007" x="1282" y="0" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50008" x="0" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50009" x="641" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50010" x="1282" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50011" x="0" y="1340" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50012" x="1282" y="0" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50013" x="0" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50014" x="641" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50015" x="1282" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50016" x="0" y="1340" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50017" x="1282" y="0" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50018" x="0" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50019" x="641" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50020" x="1282" y="670" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50021" x="0" y="1340" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50022" x="1282" y="0" width="631" height="660"/>
+	<SubTexture name="Tricky Phase 0.50023" x="0" y="670" width="631" height="660"/>
+</TextureAtlas>
