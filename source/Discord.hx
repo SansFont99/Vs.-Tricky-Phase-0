@@ -38,7 +38,7 @@ class DiscordClient
 			details: "In the Menus",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "Mod Version: v3.0.0"
+			largeImageText: "Mod Version: v3.1.0"
 		});
 	}
 
@@ -74,7 +74,7 @@ class DiscordClient
 			details: details,
 			state: state,
 			largeImageKey: 'icon',
-			largeImageText: "Mod Version: v3.0.0",
+			largeImageText: "Mod Version: v3.1.0",
 			smallImageKey : smallImageKey,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
 			startTimestamp : Std.int(startTimestamp / 1000),

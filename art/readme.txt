@@ -6,21 +6,11 @@ Here are the links if you need them:
 Gamebanana: https://gamebanana.com/mods/310726
 Gamejolt: https://gamejolt.com/games/trickyphase0/655505
 
-^Credits can also be found there, thanks for reading and enjoy!
+^Credits can also be found there too.
 
-Changelog for this update (v3.0.0):
+Thanks for reading and enjoy!
 
-Added new Tricky phase 0 assets
-Added Calliope 2, a new song by Case, I called it Calliope 2 because I was lazy lmaoooo
-Added Engaged, a new song by RoyalRobbie, pretty cool song i will say so myself
-New title screen
-Added a chance to get Calliope 2 and Engaged as the title screen song (a total of 5 possible songs in the title screen)
-Hey also, try typing "old" in the title screen
-New exe icon
-Added Discord Rich Presense
-Recharted Unlaugh again
-Tricky has sex with you has been renamed to Tricky has sex with Jebus
-Tricky has sex with Jebus now has jebus as the opponent instead of bf 
-New Jebus icon (thanks byok)
-Removed the -'s in the freeplay songs
-General fixes and tweaks
+Changelog for this update (v3.1.0):
+
+Added the Redeemer and Unlaugh charts from BYOK's Tricky Phase 0 video (https://www.youtube.com/watch?v=DbfweRQ56Dw)
+Renamed the main menu's "Tricky Phase 0 v" to "Vs. Tricky Phase 0 v", because I wanted the Vs.
