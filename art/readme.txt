@@ -8,9 +8,11 @@ Gamejolt: https://gamejolt.com/games/trickyphase0/655505
 
 ^Credits can also be found there too.
 
+Source code can be found on github at https://github.com/SansFont99/Vs.-Tricky-Phase-0
+
 Thanks for reading and enjoy!
 
 Changelog for this update (v3.1.0):
 
-Added the Redeemer and Unlaugh charts from BYOK's Tricky Phase 0 video (https://www.youtube.com/watch?v=DbfweRQ56Dw)
+Added the Redeemer and Unlaugh charts from BYOK's new Tricky Phase 0 video (https://www.youtube.com/watch?v=DbfweRQ56Dw), charts by Your Buddy
 Renamed the main menu's "Tricky Phase 0 v" to "Vs. Tricky Phase 0 v", because I wanted the Vs.
