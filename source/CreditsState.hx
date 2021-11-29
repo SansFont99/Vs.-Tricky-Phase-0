@@ -27,6 +27,7 @@ class CreditsState extends MusicBeatState
 		['Tricky Phase 0 People'],
 		['SansFont99',	'sansfont99',	'Programming and Charting',	'https://www.youtube.com/channel/UCVkT3Ek7GWxEMpXv3M-YFZQ',	0xFF3498DB],
 		['BYOK',		'byok',		'Artist and Animator for Tricky Phase 0 and 0.5',	'https://www.youtube.com/channel/UCs9siIh64rD-uF2U7wgcOGA',	0xFF7B0002],
+		['Your Buddy',	'your buddy',	'Charting for Redeemer and Unlaugh',	'https://www.youtube.com/channel/UC2eUBfRGgsaHDH6TPjVc0CQ',	0xFFFE57C0],
 		['Yoshi Dam',	'yoshi dam',	'Composer 1 - Calliope, Calliope Old, Redeemer',	'https://www.youtube.com/channel/UCbAgehzRNsTFlcmurqUS2cg',	0xFFE0D52B],
 		['Damonj17',	'damonj71',	'Composer 2 - Unlaugh',	'https://twitter.com/damonj17_',	0xFF45C68D],
 		['LinDoesThings',	'lin_doesthings',	'Composer 3 - The Last Party',	'https://www.youtube.com/channel/UCD5mAVmLcnAb4KhTy1WscYQ',	0xFF909084],
