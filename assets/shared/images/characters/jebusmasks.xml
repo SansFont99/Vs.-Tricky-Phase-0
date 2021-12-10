@@ -1,115 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="jebusmasks.png">
-	<SubTexture name="Jebus Dancing Beat0000" x="0" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0001" x="509" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0002" x="1018" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0003" x="1527" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0004" x="2036" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0005" x="2545" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0006" x="3054" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0007" x="3563" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0008" x="3563" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0009" x="3563" y="0" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0010" x="0" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0011" x="0" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0012" x="0" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0013" x="509" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0014" x="509" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0015" x="1018" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0016" x="1527" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0017" x="2036" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0018" x="2545" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0019" x="3054" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0020" x="3563" y="592" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0021" x="0" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0022" x="509" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0023" x="509" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0024" x="509" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0025" x="1018" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0026" x="1018" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0027" x="1018" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0028" x="1527" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Dancing Beat0029" x="1527" y="1184" width="499" height="582"/>
-	<SubTexture name="Jebus Miss0000" x="2036" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0001" x="2036" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0002" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0003" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0004" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0005" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0006" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0007" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0008" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0009" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0010" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0011" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0012" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0013" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0014" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0015" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0016" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0017" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0018" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0019" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0020" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0021" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0022" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0023" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0024" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0025" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0026" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0027" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0028" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0029" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0030" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0031" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0032" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0033" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0034" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0035" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0036" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0037" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0038" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0039" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0040" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0041" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0042" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0043" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0044" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0045" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0046" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0047" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0048" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0049" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0050" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0051" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0052" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0053" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0054" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0055" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0056" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0057" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0058" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0059" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0060" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0061" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0062" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0063" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0064" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0065" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0066" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0067" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0068" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0069" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0070" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0071" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0072" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0073" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0074" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0075" x="2518" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0076" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0077" x="3000" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0078" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0079" x="3482" y="1184" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0080" x="0" y="1776" width="472" height="531"/>
-	<SubTexture name="Jebus Miss0081" x="0" y="1776" width="472" height="531"/>
+	<SubTexture name="Jebus Dancing Beat0000" x="0" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0001" x="518" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0002" x="1036" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0003" x="1554" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0004" x="2072" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0005" x="2590" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0006" x="3108" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0007" x="0" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0008" x="0" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0009" x="0" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0010" x="518" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0011" x="518" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0012" x="518" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0013" x="1036" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0014" x="1036" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0015" x="1554" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0016" x="2072" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0017" x="2590" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0018" x="3108" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0019" x="0" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0020" x="518" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0021" x="1036" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0022" x="1554" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0023" x="1554" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0024" x="1554" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0025" x="2072" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0026" x="2072" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0027" x="2072" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0028" x="2590" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0029" x="2590" y="1194" width="508" height="587"/>
 </TextureAtlas>

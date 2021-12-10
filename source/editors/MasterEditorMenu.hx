@@ -20,8 +20,6 @@ class MasterEditorMenu extends MusicBeatState
 	var options:Array<String> = [
 		'Week Editor',
 		'Menu Character Editor',
-		'Dialogue Editor',
-		'Dialogue Portrait Editor',
 		'Character Editor'
 	];
 	private var grpTexts:FlxTypedGroup<Alphabet>;

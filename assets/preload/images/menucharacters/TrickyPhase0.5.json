@@ -1,8 +1,8 @@
 {
-	"idle_anim": "Tricky Phase 0.5",
+	"idle_anim": "Idle",
 	"image": "Menu_TrickyPhase0.5",
 	"position": [
-		207,
+		200,
 		150
 	],
 	"scale": 0.55,

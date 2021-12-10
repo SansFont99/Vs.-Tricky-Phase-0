@@ -122,6 +122,9 @@ class TitleState extends MusicBeatState
 	var titleText:FlxSprite;
 	var swagShader:ColorSwap = null;
 	var trickyDance:FlxSprite;
+	var bg:FlxSprite;
+	var sky:FlxSprite;
+	var ground:FlxSprite;
 
 	function startIntro()
 	{
@@ -153,7 +156,7 @@ class TitleState extends MusicBeatState
 		persistentUpdate = true;
 
 		if(!FlxG.save.data.psykaEasterEgg || !easterEggEnabled) {
-			var bg:FlxSprite = new FlxSprite(-2300, -1010).loadGraphic(Paths.image('phase0/nevadatitlebg', 'shared'));
+			bg = new FlxSprite(-2300, -1010).loadGraphic(Paths.image('phase0/nevadatitlebg', 'shared'));
 			bg.setGraphicSize(Std.int(bg.width * 1.4));
 			bg.updateHitbox();
 			bg.antialiasing = ClientPrefs.globalAntialiasing;
@@ -161,12 +164,12 @@ class TitleState extends MusicBeatState
 		}
 		else
 		{
-			var sky:FlxSprite = new FlxSprite(-1350, -850).loadGraphic(Paths.image('phase0/nevadasky', 'shared'));
+			sky = new FlxSprite(-1350, -850).loadGraphic(Paths.image('phase0/nevadasky', 'shared'));
 			sky.updateHitbox();
 			sky.antialiasing = ClientPrefs.globalAntialiasing;
 			add(sky);
 
-			var ground:FlxSprite = new FlxSprite(-2100, -1010).loadGraphic(Paths.image('phase0/old/nevadagroundold', 'shared'));
+			ground = new FlxSprite(-2100, -1010).loadGraphic(Paths.image('phase0/old/nevadagroundold', 'shared'));
 			ground.setGraphicSize(Std.int(ground.width * 1.4));
 			ground.updateHitbox();
 			ground.antialiasing = ClientPrefs.globalAntialiasing;
@@ -413,9 +416,8 @@ class TitleState extends MusicBeatState
 			{
 				case 1:
 					createCoolText(['SansFont99'], 45);
-					addMoreText('and others', 45);
 				case 2:
-					addMoreText('present', 45);
+					addMoreText('presents', 45);
 				case 3:
 					deleteCoolText();
 				case 5:

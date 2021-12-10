@@ -1,9 +1,9 @@
 {
-	"idle_anim": "Idle",
+	"idle_anim": "Jebus Dancing Beat",
 	"image": "Menu_jebus",
 	"position": [
-		30,
-		120
+		70,
+		115
 	],
 	"scale": 0.6,
 	"confirm_anim": "M Dad Idle"

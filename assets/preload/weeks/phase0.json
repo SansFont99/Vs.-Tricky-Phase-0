@@ -1,14 +1,15 @@
 {
 	"storyName": "Phase 0",
 	"hideFreeplay": true,
-	"weekBackground": "",
-	"weekBefore": "tutorial",
+	"weekBackground": "phase0",
 	"freeplayColor": [
 		255,
 		255,
 		255
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"TrickyPhase0",
 		"bfnevada",
@@ -52,6 +53,5 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "Phase 0"
 }

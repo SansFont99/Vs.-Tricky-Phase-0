@@ -1,0 +1,21 @@
+Hey Player, thanks for downloading!
+
+If you want to showcase this mod, PLEASE put the link of the mod in your video description or comment section.
+Here are the links if you need them:
+
+Gamebanana: https://gamebanana.com/mods/310726
+Gamejolt: https://gamejolt.com/games/trickyphase0/655505
+
+^Credits can also be found there too.
+
+Source code can be found on github at https://github.com/SansFont99/Vs.-Tricky-Phase-0
+
+Thanks for reading and enjoy!
+
+Changelog for this update (v3.2.0):
+
+Offsetted Tricky Phase 0, Jebus, and BFnevada animations so they don't look twitchy (because it kept bugging me lol)
+Fixed Masks' opponent being regular bf
+Story mode improvements for phase 0 and 0.5
+Added opponent damage in Unlaugh, Calliope 2, Engaged, and The Last Party
+Small fixes or something idk anymore

@@ -1,33 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Menu_jebus.png">
-	<SubTexture name="Idle0000" x="0" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0001" x="509" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0002" x="1018" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0003" x="1527" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0004" x="2036" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0005" x="2545" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0006" x="3054" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0007" x="3563" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0008" x="3563" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0009" x="3563" y="0" width="499" height="582"/>
-	<SubTexture name="Idle0010" x="0" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0011" x="0" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0012" x="0" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0013" x="509" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0014" x="509" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0015" x="1018" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0016" x="1527" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0017" x="2036" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0018" x="2545" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0019" x="3054" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0020" x="3563" y="592" width="499" height="582"/>
-	<SubTexture name="Idle0021" x="0" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0022" x="509" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0023" x="509" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0024" x="509" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0025" x="1018" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0026" x="1018" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0027" x="1018" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0028" x="1527" y="1184" width="499" height="582"/>
-	<SubTexture name="Idle0029" x="1527" y="1184" width="499" height="582"/>
+<TextureAtlas imagePath="jebus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jebus Dancing Beat0000" x="0" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0001" x="518" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0002" x="1036" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0003" x="1554" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0004" x="2072" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0005" x="2590" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0006" x="3108" y="0" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0007" x="0" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0008" x="0" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0009" x="0" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0010" x="518" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0011" x="518" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0012" x="518" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0013" x="1036" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0014" x="1036" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0015" x="1554" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0016" x="2072" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0017" x="2590" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0018" x="3108" y="597" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0019" x="0" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0020" x="518" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0021" x="1036" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0022" x="1554" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0023" x="1554" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0024" x="1554" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0025" x="2072" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0026" x="2072" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0027" x="2072" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0028" x="2590" y="1194" width="508" height="587"/>
+	<SubTexture name="Jebus Dancing Beat0029" x="2590" y="1194" width="508" height="587"/>
 </TextureAtlas>

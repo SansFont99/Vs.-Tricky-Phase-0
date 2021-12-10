@@ -1,10 +1,10 @@
 {
-	"confirm_anim": "M Dad Idle",
-	"idle_anim": "idle",
+	"confirm_anim": "Hey",
+	"idle_anim": "GF Dancing Beat",
 	"position": [
-		135,
-		135
+		165,
+		140
 	],
-	"scale": 0.5,
+	"scale": 0.55,
 	"image": "Menu_gfnevada"
 }

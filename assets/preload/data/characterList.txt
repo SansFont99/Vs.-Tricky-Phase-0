@@ -4,9 +4,12 @@ bfnevada
 gf
 gfnevada
 jebus
+jebusold
 jebusmasks
+jebusmasksold
 jebus-opponent
 speakers
 TrickyPhase0
+TrickyPhase0old
 TrickyPhase0.5
 TrickyPhase0.5-player

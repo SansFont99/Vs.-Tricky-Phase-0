@@ -3,7 +3,7 @@
 		"player1": "TrickyPhase0.5-player",
 		"sectionLengths": [],
 		"gfVersion": "jebusmasks",
-		"player2": "bfnevadamasks-opponent",
+		"player2": "bfmasks-opponent",
 		"notes": [
 			{
 				"lengthInSteps": 16,
