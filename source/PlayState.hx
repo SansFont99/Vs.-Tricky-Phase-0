@@ -2942,7 +2942,7 @@ class PlayState extends MusicBeatState
 
 				if (storyPlaylist.length <= 0)
 				{
-					FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					FlxG.sound.playMusic(Paths.music('funnySong'));
 
 					cancelFadeTween();
 					CustomFadeTransition.nextCamera = camOther;
@@ -3017,7 +3017,7 @@ class PlayState extends MusicBeatState
 					CustomFadeTransition.nextCamera = null;
 				}
 				MusicBeatState.switchState(new FreeplayState());
-				FlxG.sound.playMusic(Paths.music('freakyMenu'));
+				FlxG.sound.playMusic(Paths.music('funnySong'));
 				usedPractice = false;
 				changedDifficulty = false;
 				cpuControlled = false;

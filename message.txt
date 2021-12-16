@@ -12,10 +12,6 @@ Source code can be found on github at https://github.com/SansFont99/Vs.-Tricky-P
 
 Thanks for reading and enjoy!
 
-Changelog for this update (v3.2.0):
+Changelog for this update (v3.2.1):
 
-Offsetted Tricky Phase 0, Jebus, and BFnevada animations so they don't look twitchy (because it kept bugging me lol)
-Fixed Masks' opponent being regular bf
-Story mode improvements for phase 0 and 0.5
-Added opponent damage in Unlaugh, Calliope 2, Engaged, and The Last Party
-Small fixes or something idk anymore
+- Fixed Phase 0.5 week not unlocking after beating Phase 0

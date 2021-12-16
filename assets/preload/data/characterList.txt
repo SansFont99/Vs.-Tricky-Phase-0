@@ -5,9 +5,9 @@ gf
 gfnevada
 jebus
 jebusold
+jebus-opponent
 jebusmasks
 jebusmasksold
-jebus-opponent
 speakers
 TrickyPhase0
 TrickyPhase0old

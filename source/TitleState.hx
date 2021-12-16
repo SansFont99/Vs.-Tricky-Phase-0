@@ -146,7 +146,7 @@ class TitleState extends MusicBeatState
 					FlxG.sound.playMusic(Paths.music('funnySong5'), 0);
 					Conductor.changeBPM(160);
 				default: // calliope
-					FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
+					FlxG.sound.playMusic(Paths.music('funnySong'), 0);
 					Conductor.changeBPM(100);
 				}
 
