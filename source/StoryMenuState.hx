@@ -127,7 +127,7 @@ class StoryMenuState extends MusicBeatState
 		}
 
 		difficultySelectors = new FlxGroup();
-		add(difficultySelectors);
+		//add(difficultySelectors);
 
 		leftArrow = new FlxSprite(grpWeekText.members[0].x + grpWeekText.members[0].width + 10, grpWeekText.members[0].y + 10);
 		leftArrow.frames = ui_tex;
@@ -135,10 +135,10 @@ class StoryMenuState extends MusicBeatState
 		leftArrow.animation.addByPrefix('press', "arrow push left");
 		leftArrow.animation.play('idle');
 		leftArrow.antialiasing = ClientPrefs.globalAntialiasing;
-		difficultySelectors.add(leftArrow);
+		//difficultySelectors.add(leftArrow);
 
 		sprDifficultyGroup = new FlxTypedGroup<FlxSprite>();
-		add(sprDifficultyGroup);
+		//add(sprDifficultyGroup);
 
 		
 		for (i in 0...CoolUtil.difficultyStuff.length) {
@@ -146,7 +146,7 @@ class StoryMenuState extends MusicBeatState
 			sprDifficulty.x += (308 - sprDifficulty.width) / 2;
 			sprDifficulty.ID = i;
 			sprDifficulty.antialiasing = ClientPrefs.globalAntialiasing;
-			sprDifficultyGroup.add(sprDifficulty);
+			//sprDifficultyGroup.add(sprDifficulty);
 		}
 		changeDifficulty();
 
@@ -158,7 +158,7 @@ class StoryMenuState extends MusicBeatState
 		rightArrow.animation.addByPrefix('press', "arrow push right", 24, false);
 		rightArrow.animation.play('idle');
 		rightArrow.antialiasing = ClientPrefs.globalAntialiasing;
-		difficultySelectors.add(rightArrow);
+		//difficultySelectors.add(rightArrow);
 
 		add(bgYellow);
 		add(bgSprite);

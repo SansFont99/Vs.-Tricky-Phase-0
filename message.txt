@@ -1,17 +1,23 @@
 Hey Player, thanks for downloading!
 
 If you want to showcase this mod, PLEASE put the link of the mod in your video description or comment section.
-Here are the links if you need them:
+
+Here's the links to the mod:
 
 Gamebanana: https://gamebanana.com/mods/310726
 Gamejolt: https://gamejolt.com/games/trickyphase0/655505
 
-^Credits can also be found there too.
-
-Source code can be found on github at https://github.com/SansFont99/Vs.-Tricky-Phase-0
+Source code can be found at https://github.com/SansFont99/Vs.-Tricky-Phase-0
 
 Thanks for reading and enjoy!
 
-Changelog for this update (v3.2.1):
+Changelog for v3.3.0:
 
-- Fixed Phase 0.5 week not unlocking after beating Phase 0
+- Masks character positions are switched
+- "Recharted" Masks
+- Remade some sprite sheets because yes
+- Tweaked Nevada and Nevada Old stage positions
+- Removed the arrows and difficulty from story mode
+- Phase 0.5 week is now green
+- Added a logo to title screen
+- Woah more small fixes who would've knew

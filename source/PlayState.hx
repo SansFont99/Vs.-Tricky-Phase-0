@@ -322,11 +322,11 @@ class PlayState extends MusicBeatState
 				case 'thorns':
 					curStage = 'schoolEvil';
 				case 'calliope' | 'redeemer' | 'unlaugh' | 'calliope-2':
-					curStage = 'nevadanew';
-				case 'the-last-party' | 'engaged' | 'tricky-has-sex-with-jebus':
-					curStage = 'nevada2';
+					curStage = 'nevada';
 				case 'calliope-old':
 					curStage = 'nevadaold';
+				case 'engaged' | 'the-last-party' | 'tricky-has-sex-with-jebus':
+					curStage = 'nevada2';
 				case 'masks':
 					curStage = 'nevadamasks';
 				default:
@@ -749,12 +749,12 @@ class PlayState extends MusicBeatState
 					gfVersion = 'gf-pixel';
 				case 'nevada':
 					gfVersion = 'jebus';
+				case 'nevadaold':
+					gfVersion = 'jebusold';
 				case 'nevada2':
 					gfVersion = 'gfnevada';
-				case 'masks':
+				case 'nevadamasks':
 					gfVersion = 'jebusmasks';
-				case 'tricky-has-sex-with-jebus':
-					gfVersion = 'speakers';
 				default:
 					gfVersion = 'gf';
 			}

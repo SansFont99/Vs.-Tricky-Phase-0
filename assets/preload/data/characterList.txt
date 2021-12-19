@@ -1,5 +1,5 @@
 bf
-bfmasks-opponent
+bfmasks
 bfnevada
 gf
 gfnevada
@@ -12,4 +12,5 @@ speakers
 TrickyPhase0
 TrickyPhase0old
 TrickyPhase0.5
+TrickyPhase0.5masks
 TrickyPhase0.5-player

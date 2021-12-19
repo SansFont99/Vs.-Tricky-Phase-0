@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				41,
+				-56
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				96,
+				2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				41,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				96,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				172,
+				31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				16,
+				-76
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				31
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-76
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TrickyPhase0.5",
+	"position": [
+		-150,
+		150
+	],
+	"healthicon": "TrickyPhase0.5",
+	"flip_x": true,
+	"healthbar_colors": [
+		24,
+		95,
+		64
+	],
+	"camera_position": [
+		-300,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"indices": [],
+			"name": "Idle"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-54,
 				-56
 			],
+			"loop": true,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Sing Down",
-			"indices": []
+			"indices": [],
+			"name": "Down"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-95,
 				2
 			],
-			"anim": "singUP",
+			"loop": true,
 			"fps": 24,
-			"name": "Sing Up",
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				281,
+				-76
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
 			"indices": []
 		},
 		{
-			"offsets": [
-				281,
-				-68
-			],
 			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Sing Right"
-		},
-		{
 			"offsets": [
 				-9,
-				25
+				31
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Sing Left"
+			"fps": 24,
+			"name": "Left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-54,
 				-56
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Down",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-95,
 				2
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Up",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				281,
-				-68
+				-76
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Right",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-9,
-				25
+				-8,
+				31
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "Sing Left",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Left"
 		}
 	],
 	"no_antialiasing": false,

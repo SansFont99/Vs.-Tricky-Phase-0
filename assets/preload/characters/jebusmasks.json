@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 24,
-			"name": "Jebus Dancing Beat",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -25,16 +24,18 @@
 				27,
 				28,
 				29
-			]
+			],
+			"name": "Jebus Dancing Beat"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Jebus Dancing Beat",
 			"indices": [
 				0,
 				1,
@@ -51,15 +52,14 @@
 				12,
 				13,
 				14
-			],
-			"name": "Jebus Dancing Beat"
+			]
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/jebusmasks",
 	"position": [
-		100,
-		90
+		75,
+		100
 	],
 	"healthicon": "jebus",
 	"flip_x": false,

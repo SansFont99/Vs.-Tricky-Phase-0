@@ -94,8 +94,8 @@
 	"no_antialiasing": false,
 	"image": "characters/jebus",
 	"position": [
-		160,
-		90
+		75,
+		100
 	],
 	"healthicon": "jebus",
 	"flip_x": false,

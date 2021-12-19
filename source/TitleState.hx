@@ -118,7 +118,7 @@ class TitleState extends MusicBeatState
 		#end
 	}
 
-	var logoBl:FlxSprite;
+	var logo:FlxSprite;
 	var titleText:FlxSprite;
 	var swagShader:ColorSwap = null;
 	var trickyDance:FlxSprite;
@@ -175,14 +175,6 @@ class TitleState extends MusicBeatState
 			ground.antialiasing = ClientPrefs.globalAntialiasing;
 			add(ground);
 		}
-		
-		logoBl = new FlxSprite(-150, -100);
-		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
-		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
-		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
-		logoBl.animation.play('bump');
-		logoBl.updateHitbox();
-		add(logoBl);
 
 		if(!FlxG.save.data.psykaEasterEgg || !easterEggEnabled) {
 			trickyDance = new FlxSprite(500, 100);
@@ -200,6 +192,14 @@ class TitleState extends MusicBeatState
 		trickyDance.antialiasing = ClientPrefs.globalAntialiasing;
 		trickyDance.shader = swagShader.shader;
 		add(trickyDance);
+
+		logo = new FlxSprite();
+		logo.frames = Paths.getSparrowAtlas('logobump');
+		logo.antialiasing = ClientPrefs.globalAntialiasing;
+		logo.animation.addByPrefix('bump', 'bump', 24);
+		logo.animation.play('bump');
+		logo.updateHitbox();
+		add(logo);
 
 		titleText = new FlxSprite(100, FlxG.height * 0.8);
 		titleText.frames = Paths.getSparrowAtlas('titleEnter');
@@ -405,8 +405,8 @@ class TitleState extends MusicBeatState
 	{
 		super.beatHit();
 
-		if(logoBl != null) 
-			logoBl.animation.play('bump');
+		if(logo != null) 
+			logo.animation.play('bump');
 		
 		if(trickyDance != null) 
 			trickyDance.animation.play('dance');
