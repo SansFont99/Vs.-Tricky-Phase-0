@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BF idle dance",
+	"image": "youngbf",
+	"position": [
+		55,
+		0
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "BF HEY!!"
+}

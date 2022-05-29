@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrickyMask.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="5" y="5" width="626" height="656" />
+	<SubTexture name="Idle0001" x="641" y="5" width="626" height="656" />
+	<SubTexture name="Idle0002" x="1277" y="5" width="626" height="656" />
+	<SubTexture name="Idle0003" x="1913" y="5" width="626" height="656" />
+	<SubTexture name="Idle0004" x="2549" y="5" width="626" height="656" />
+	<SubTexture name="Idle0005" x="3185" y="5" width="626" height="656" />
+	<SubTexture name="Idle0006" x="3821" y="5" width="626" height="656" />
+	<SubTexture name="Idle0007" x="1277" y="5" width="626" height="656" />
+	<SubTexture name="Idle0008" x="1913" y="5" width="626" height="656" />
+	<SubTexture name="Idle0009" x="2549" y="5" width="626" height="656" />
+	<SubTexture name="Idle0010" x="3185" y="5" width="626" height="656" />
+	<SubTexture name="Idle0011" x="3821" y="5" width="626" height="656" />
+	<SubTexture name="Idle0012" x="1277" y="5" width="626" height="656" />
+	<SubTexture name="Idle0013" x="1913" y="5" width="626" height="656" />
+	<SubTexture name="Idle0014" x="2549" y="5" width="626" height="656" />
+	<SubTexture name="Idle0015" x="3185" y="5" width="626" height="656" />
+	<SubTexture name="Idle0016" x="3821" y="5" width="626" height="656" />
+	<SubTexture name="Idle0017" x="1277" y="5" width="626" height="656" />
+	<SubTexture name="Idle0018" x="1913" y="5" width="626" height="656" />
+	<SubTexture name="Idle0019" x="2549" y="5" width="626" height="656" />
+	<SubTexture name="Idle0020" x="3185" y="5" width="626" height="656" />
+	<SubTexture name="Idle0021" x="3821" y="5" width="626" height="656" />
+	<SubTexture name="Idle0022" x="1277" y="5" width="626" height="656" />
+	<SubTexture name="Idle0023" x="1913" y="5" width="626" height="656" />
+	<SubTexture name="Idle0024" x="2549" y="5" width="626" height="656" />
+</TextureAtlas>

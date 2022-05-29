@@ -1,0 +1,59 @@
+{
+	"storyName": "Phase 0",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "nevada0",
+	"weekBefore": "",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Calliope",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Redeemer",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Clowning",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Calliope 2",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"TrickyPhase0",
+		"youngbf",
+		"jebus"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Phase 0"
+}

@@ -1,16 +1,2 @@
 bf
-bfmasks
-bfnevada
 gf
-gfnevada
-jebus
-jebusold
-jebus-opponent
-jebusmasks
-jebusmasksold
-speakers
-TrickyPhase0
-TrickyPhase0old
-TrickyPhase0.5
-TrickyPhase0.5masks
-TrickyPhase0.5-player

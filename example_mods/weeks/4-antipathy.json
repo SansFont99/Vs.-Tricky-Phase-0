@@ -1,0 +1,32 @@
+{
+	"storyName": "Antipathy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "nevadaantipathy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "3-phase1.5",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"TrickyAntipathy",
+		"hank",
+		"vendor"
+	],
+	"songs": [
+		[
+			"Murderface",
+			"TrickyAntipathy",
+			[
+				24,
+				95,
+				64
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Antipathy",
+	"hiddenUntilUnlocked": false
+}

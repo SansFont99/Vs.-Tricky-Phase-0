@@ -1,0 +1,59 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		255,
+		245,
+		231
+	],
+	"weekBefore": "4-antipathy",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Redeemar",
+			"TrickyPhase0",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Clowning Remix",
+			"TrickyPhase0HD",
+			[
+				255,
+				245,
+				231
+			]
+		],
+		[
+			"Mask",
+			"TrickyPhase0.5",
+			[
+				24,
+				95,
+				64
+			]
+		],
+		[
+			"Tricky Sings Balls in Your Jaw",
+			"TrickyPhase0.5",
+			[
+				24,
+				95,
+				64
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bonus Songs",
+	"hiddenUntilUnlocked": false
+}

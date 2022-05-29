@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "Idle",
+	"position": [
+		200,
+		150
+	],
+	"scale": 0.55,
+	"image": "TrickyPhase0.99",
+	"flipX": false
+}

@@ -1,9 +1,0 @@
-Calliope:TrickyPhase0:0xFFFFFFFF
-Calliope Old:TrickyPhase0old:0xFFFFFFFF
-Redeemer:TrickyPhase0:0xFFFFFFFF
-Unlaugh:TrickyPhase0:0xFFFFFFFF
-Calliope 2:TrickyPhase0:0xFFFFFFFF
-Engaged:TrickyPhase0.5:0xFF185F40
-The Last Party:TrickyPhase0.5:0xFF185F40
-Masks:TrickyPhase0.5:0xFF185F40
-Tricky has sex with Jebus:TrickyPhase0.5:0xFF185F40

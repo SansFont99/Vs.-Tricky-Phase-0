@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Jebus Dancing Beat",
+	"image": "Jebus",
+	"position": [
+		60,
+		110
+	],
+	"flipX": true,
+	"scale": 0.6,
+	"confirm_anim": "Hey"
+}
