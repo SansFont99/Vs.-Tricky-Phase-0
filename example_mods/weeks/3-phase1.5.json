@@ -1,13 +1,7 @@
 {
 	"storyName": "Phase 1.5",
 	"difficulties": "Hard",
-	"hideFreeplay": false,
 	"weekBackground": "nevada1.5",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"weekBefore": "2-phase0.5",
 	"startUnlocked": false,
 	"weekCharacters": [
@@ -26,7 +20,7 @@
 			]
 		],
 		[
-			"OMFG!",
+			"OMFG",
 			"TrickyPhase1.5",
 			[
 				24,
@@ -44,7 +38,5 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Phase 1.5",
-	"hiddenUntilUnlocked": false
+	"weekName": "Phase 1.5"
 }

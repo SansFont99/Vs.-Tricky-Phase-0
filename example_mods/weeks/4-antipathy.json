@@ -1,13 +1,7 @@
 {
 	"storyName": "Antipathy",
 	"difficulties": "Hard",
-	"hideFreeplay": false,
 	"weekBackground": "nevadaantipathy",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"weekBefore": "3-phase1.5",
 	"startUnlocked": false,
 	"weekCharacters": [
@@ -26,7 +20,5 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Antipathy",
-	"hiddenUntilUnlocked": false
+	"weekName": "Antipathy"
 }

@@ -1,6 +1,6 @@
 function onCreate()
-	if boyfriendName == "bfAndGF" then
-		setPropertyFromClass('GameOverSubstate', 'characterName', 'bfHoldingGF-DEAD');
+	if boyfriendName == "bf-holding-gf" then
+		setPropertyFromClass('GameOverSubstate', 'characterName', 'bf-holding-gf-dead');
 	end
 end
 

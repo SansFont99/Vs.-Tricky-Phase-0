@@ -1,20 +1,8 @@
 {
-	"storyName": "",
 	"difficulties": "Hard",
-	"hideFreeplay": false,
 	"weekBackground": "",
-	"freeplayColor": [
-		255,
-		245,
-		231
-	],
 	"weekBefore": "4-antipathy",
 	"startUnlocked": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"songs": [
 		[
 			"Redeemar",
@@ -54,6 +42,5 @@
 		]
 	],
 	"hideStoryMode": true,
-	"weekName": "Bonus Songs",
-	"hiddenUntilUnlocked": false
+	"weekName": "Bonus Songs"
 }
