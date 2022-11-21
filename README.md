@@ -1,5 +1,5 @@
 # Vs. Tricky Phase 0
 
-The mod is built on Psych Engine and shit
+This mod is built on Psych Engine. The assets are in the example_mods folder.
 
-Download for mod: https://gamebanana.com/mods/310726
+Download the mod: https://gamebanana.com/mods/310726
