@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Vendor_assets.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+<TextureAtlas imagePath="vendor.png">
 	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="1085" height="581" frameX="0" frameY="-14" frameWidth="1104" frameHeight="596" />
 	<SubTexture name="GF Dancing Beat0001" x="0" y="0" width="1085" height="581" frameX="0" frameY="-14" frameWidth="1104" frameHeight="596" />
 	<SubTexture name="GF Dancing Beat0002" x="1085" y="0" width="1080" height="581" frameX="-4" frameY="-14" frameWidth="1104" frameHeight="596" />

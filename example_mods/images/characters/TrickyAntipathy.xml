@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="TrickyMask.png">
-	<!-- Created with Adobe Animate version 21.0.3.38773 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+<TextureAtlas imagePath="TrickyAntipathy.png">
 	<SubTexture name="Idle0000" x="5" y="5" width="626" height="656" />
 	<SubTexture name="Idle0001" x="641" y="5" width="626" height="656" />
 	<SubTexture name="Idle0002" x="1277" y="5" width="626" height="656" />

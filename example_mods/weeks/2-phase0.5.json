@@ -2,8 +2,6 @@
 	"storyName": "Phase 0.5",
 	"difficulties": "Hard",
 	"weekBackground": "nevada0.5",
-	"weekBefore": "1-phase0",
-	"startUnlocked": false,
 	"weekCharacters": [
 		"TrickyPhase0.5",
 		"bfcolor",

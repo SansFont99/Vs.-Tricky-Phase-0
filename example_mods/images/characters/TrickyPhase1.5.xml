@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Tricky FNF assets - UPDATE 1.png">
-	<!-- Created with Adobe Animate version 21.0.3.38773 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+<TextureAtlas imagePath="TrickyPhase1.5.png">
 	<SubTexture name="Idle0000" x="5" y="5" width="619" height="649" frameX="-14" frameY="-36" frameWidth="665" frameHeight="685" />
 	<SubTexture name="Idle0001" x="634" y="5" width="622" height="674" frameX="0" frameY="-11" frameWidth="665" frameHeight="685" />
 	<SubTexture name="Idle0002" x="1266" y="5" width="630" height="666" frameX="-35" frameY="-19" frameWidth="665" frameHeight="685" />

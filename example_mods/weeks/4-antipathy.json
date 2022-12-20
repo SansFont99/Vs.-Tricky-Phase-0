@@ -2,8 +2,6 @@
 	"storyName": "Antipathy",
 	"difficulties": "Hard",
 	"weekBackground": "nevadaantipathy",
-	"weekBefore": "3-phase1.5",
-	"startUnlocked": false,
 	"weekCharacters": [
 		"TrickyAntipathy",
 		"hank",
