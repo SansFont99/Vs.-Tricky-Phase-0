@@ -1,11 +1,16 @@
 IntroTextSize = 25
 IntroSubTextSize = 30
-IntroTagColor = '8300c3'
+IntroTagColor = 'FFFFFF'
+IntroTagColorAlt = '185F40'
 IntroTagWidth = 15
 
 function onCreate()
 	makeLuaSprite('JukeBoxTag', 'empty', -305 - IntroTagWidth, 15)
-	makeGraphic('JukeBoxTag', 300 + IntroTagWidth, 100, IntroTagColor)
+	if dadName == 'TrickyPhase0' or dadName == 'TrickyPhase0HD' then
+		makeGraphic('JukeBoxTag', 300 + IntroTagWidth, 100, IntroTagColor)
+	else
+		makeGraphic('JukeBoxTag', 300 + IntroTagWidth, 100, IntroTagColorAlt)
+	end
 	setObjectCamera('JukeBoxTag', 'other')
 	addLuaSprite('JukeBoxTag', true)
 
@@ -23,7 +28,11 @@ function onCreate()
 	makeLuaText('JukeBoxSubText', songName, 300, -305 - IntroTagWidth, 60)
 	setTextAlignment('JukeBoxSubText', 'left')
 	setObjectCamera('JukeBoxSubText', 'other')
-	setTextSize('JukeBoxSubText', IntroSubTextSize)
+	if songName == 'Tricky Sings Balls in Your Jaw' then
+		setTextSize('JukeBoxSubText', 25)
+	else
+		setTextSize('JukeBoxSubText', IntroSubTextSize)
+	end
 	addLuaText('JukeBoxSubText')
 end
 

@@ -8,7 +8,6 @@ local camlocky = 0
 local camlock = false
 local bfturn = false
 
-
 function onMoveCamera(focus)
 	if focus == 'boyfriend' then
 		campointx = getProperty('camFollow.x')
